@@ -1,0 +1,44 @@
+# Visual Studio
+.vs/
+*.suo
+*.user
+*.sln.docstates
+
+# Build results
+[Bb]in/
+[Oo]bj/
+[Dd]ebug/
+[Rr]elease/
+*.exe
+*.dll
+*.pdb
+*.tmp
+*.log
+
+# Packages
+packages/
+*.nupkg
+
+# Test Results
+*.trx
+*.coverage
+
+# NuGet
+.nuget/
+NuGet.Config
+*.nugevt
+
+# Resharper
+*.DotSettings
+
+# Rider
+.idea/
+
+# Other
+*.[Cc]ache
+*.opendb
+*.VC.db
+
+# User-specific files for solutions/projects
+*.user
+*.resharper
